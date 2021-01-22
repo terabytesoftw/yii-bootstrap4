@@ -18,7 +18,7 @@
     "prefer-stable": true,
     "require": {
         "php": "^7.4|^8.0",
-        "npm-asset/bootstrap": "^4.5.3",
+        "npm-asset/bootstrap": "^4.6.0",
         "npm-asset/jquery": "^3.5.1",
         "oomphinc/composer-installers-extender": "^2.0.0",
         "yiisoft/arrays": "^3.0@dev",
